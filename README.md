@@ -8,7 +8,7 @@ Throughout this learning journey, I have come to appreciate the power and versat
 
 What I Learn:-
 
-How to install Wordpress.
+- How to install Wordpress.
 How to setup Wordpress (Admin login)
 How to choose and install Theme in Wordpress.
 How to Create Pages.
