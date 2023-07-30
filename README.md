@@ -1,4 +1,4 @@
-Hello,   Akshay here
+<h2>Hello,   Akshay</h2> here
 
 I am excited to share with you the journey of my latest creation - a WordPress website, driven by the desire to learn and master the art of WordPress.
 
@@ -6,7 +6,7 @@ Every design choice, every line of code, is a step towards unlocking the full po
 
 Throughout this learning journey, I have come to appreciate the power and versatility of WordPress as a Content Management System. Its user-friendly interface and extensive array of plugins have enabled me to create a platform that reflects my passion for learning and sharing knowledge.
 
-What I Learn:-
+<h2>What I Learn:-</h2>
 
 - How to install Wordpress.
 - How to setup Wordpress (Admin login)
@@ -25,6 +25,7 @@ What I Learn:-
 - Using RSS Feed in website.
 - Use of Widgets.
 - How to set Logo, Site Icon (Fab Icon), Title of website.
+
 
 ![website](https://github.com/akshaychirme/Wordpress-Project/assets/114064880/1ee809f2-01dc-477a-8d1c-9c30c57cb704)
 ![Menu_Category_SubCategory](https://github.com/akshaychirme/Wordpress-Project/assets/114064880/b7cb7949-ba42-40be-81ed-75f07ff9c362)
