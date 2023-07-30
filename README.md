@@ -9,22 +9,22 @@ Throughout this learning journey, I have come to appreciate the power and versat
 What I Learn:-
 
 - How to install Wordpress.
-How to setup Wordpress (Admin login)
-How to choose and install Theme in Wordpress.
-How to Create Pages.
-How to Create Menus and Custom Menu.
-What is Slug and Permalinks.
-How to add Comment option on post or page.
-How to create Post.
-What is meant by Category, Sub-Category and how to use them in menu.
-How to insert Image and Image Gallery
-What is meant Excerpt.
-Limits of post to be display.
-How to create Footer and customize it.
-How to install and setup Plugins.
-Using RSS Feed in website.
-Use of Widgets.
-How to set Logo, Site Icon (Fab Icon), Title of website.
+- How to setup Wordpress (Admin login)
+- How to choose and install Theme in Wordpress.
+- How to Create Pages.
+- How to Create Menus and Custom Menu.
+- What is Slug and Permalinks.
+- How to add Comment option on post or page.
+- How to create Post.
+- What is meant by Category, Sub-Category and how to use them in menu.
+- How to insert Image and Image Gallery
+- What is meant Excerpt.
+- Limits of post to be display.
+- How to create Footer and customize it.
+- How to install and setup Plugins.
+- Using RSS Feed in website.
+- Use of Widgets.
+- How to set Logo, Site Icon (Fab Icon), Title of website.
 
 ![website](https://github.com/akshaychirme/Wordpress-Project/assets/114064880/1ee809f2-01dc-477a-8d1c-9c30c57cb704)
 ![Menu_Category_SubCategory](https://github.com/akshaychirme/Wordpress-Project/assets/114064880/b7cb7949-ba42-40be-81ed-75f07ff9c362)
