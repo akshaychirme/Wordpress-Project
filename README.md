@@ -1,4 +1,4 @@
-<h2>Hello,   Akshay</h2> here
+<h3>Hello, Akshay here</h3>
 
 I am excited to share with you the journey of my latest creation - a WordPress website, driven by the desire to learn and master the art of WordPress.
 
@@ -6,7 +6,7 @@ Every design choice, every line of code, is a step towards unlocking the full po
 
 Throughout this learning journey, I have come to appreciate the power and versatility of WordPress as a Content Management System. Its user-friendly interface and extensive array of plugins have enabled me to create a platform that reflects my passion for learning and sharing knowledge.
 
-<h2>What I Learn:-</h2>
+<h3>What I Learn :-</h3>
 
 - How to install Wordpress.
 - How to setup Wordpress (Admin login)
