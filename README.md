@@ -6,6 +6,9 @@ Every design choice, every line of code, is a step towards unlocking the full po
 
 Throughout this learning journey, I have come to appreciate the power and versatility of WordPress as a Content Management System. Its user-friendly interface and extensive array of plugins have enabled me to create a platform that reflects my passion for learning and sharing knowledge.
 
+This is Another Website that is Live on the Internet. you can have a look. I'm still working on it.
+https://marathivishesh.in
+
 <h3>What I Learn :-</h3>
 
 - How to install Wordpress.
@@ -23,6 +26,7 @@ Throughout this learning journey, I have come to appreciate the power and versat
 - How to create Footer and customize it.
 - How to install and setup Plugins.
 - Using RSS Feed in website.
+- How to Schedule Post.
 - Use of Widgets.
 - How to set Logo, Site Icon (Fab Icon), Title of website.
 
