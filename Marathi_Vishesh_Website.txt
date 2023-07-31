@@ -1,6 +1,0 @@
-Welcome to my <H4>MarathiVishesh.in</H4> website, a dynamic multi-niche website catering to diverse content in the enchanting Marathi language. Leveraging the power of <H4>WordPress</H4> and hosted on <H4>Hostinger</H4>.
-
-I have used the <H4>News Way theme</H4> to captivate our audience with visually stunning designs and a user-friendly interface. Ensuring a secure environment, I integrated essential plugins such as Wordfence, Smush, Contact Form 7, Easy Table of Content, Elementor, Lazy Load, UpdraftPlus - Backup/Restore, WP Super Cache, and Yoast SEO.
-
-I am excited to continue working on MarathiVishesh.in, providing informative experience to our valued visitors. Stay tuned for more captivating updates and enriching content!
-Click here to visit Website https://marathivishesh.in
