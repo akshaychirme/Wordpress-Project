@@ -33,10 +33,46 @@ Throughout this learning journey, I have come to appreciate the power and versat
 - Use of Widgets.
 - How to set Logo, Site Icon (Fab Icon), Title of website.
 
+<h4>Home Page - </h4>
 
-![website](https://github.com/akshaychirme/Wordpress-Project/assets/114064880/1ee809f2-01dc-477a-8d1c-9c30c57cb704)
-![Menu_Category_SubCategory](https://github.com/akshaychirme/Wordpress-Project/assets/114064880/b7cb7949-ba42-40be-81ed-75f07ff9c362)
-![Widgets](https://github.com/akshaychirme/Wordpress-Project/assets/114064880/ad7b6be4-f55b-4fb5-994e-ace2f6b3aace)
-![image_imageGallery](https://github.com/akshaychirme/Wordpress-Project/assets/114064880/96817672-e2eb-4629-a4e9-8aecd7407acb)
-![CommentSection](https://github.com/akshaychirme/Wordpress-Project/assets/114064880/75f54ba7-84a9-48e2-86f4-5694785910e3)
-![footer](https://github.com/akshaychirme/Wordpress-Project/assets/114064880/8cf06716-2a69-43f9-90ce-7c852ca5ff39)
+![image](https://github.com/akshaychirme/Wordpress-Project/assets/114064880/5cde8a9e-c37e-48b4-b586-8ca327b74cc7)
+
+
+<h4>Post with Comment Box-</h4>
+
+![image](https://github.com/akshaychirme/Wordpress-Project/assets/114064880/524e93e5-bc43-410b-b07e-dfccd98b581a)
+
+
+![image](https://github.com/akshaychirme/Wordpress-Project/assets/114064880/3c7cadcf-d18b-4b12-9b30-ab9b8723eca2)
+
+
+<h4>RSS Feed - </h4>
+
+![image](https://github.com/akshaychirme/Wordpress-Project/assets/114064880/9dd622ef-23b0-46dc-94a8-b8c4fd82f09f)
+
+
+<h4>Header with Logo, Menu, Category, and Sub-Category -</h4>
+
+![image](https://github.com/akshaychirme/Wordpress-Project/assets/114064880/224f3356-fee8-423a-99b2-6dc191524e16)
+
+
+<h4>Image Gallery -</h4>
+
+![image](https://github.com/akshaychirme/Wordpress-Project/assets/114064880/4a922d28-dbaf-4d73-ba65-30aeb02bf166)
+
+
+<h4>Image Slide Show - </h4>
+
+![image](https://github.com/akshaychirme/Wordpress-Project/assets/114064880/128f0b91-c6b1-47d1-b84d-f1f1aed08572)
+
+
+<h4>Contact Form -</h4>
+
+![image](https://github.com/akshaychirme/Wordpress-Project/assets/114064880/22de6a09-076b-422f-8b23-80d3beaa01d1)
+
+
+<h4>Footer with live visitor counter -</h4>
+
+![image](https://github.com/akshaychirme/Wordpress-Project/assets/114064880/f67b5aca-e917-4a28-8d7d-33fb4643d6c0)
+
+
